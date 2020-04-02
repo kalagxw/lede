@@ -280,7 +280,7 @@ static void __init rb750gr3_setup(void)
 	platform_device_register(&rb750_nand_device);
 }
 
-MIPS_MACHINE(ATH79_MACH_RB_750G_R3, "750Gr3", "MikroTik RouterBOARD 750GL",
+MIPS_MACHINE(ATH79_MACH_RB_750G_R3, "750Gr3", "MikroTik RouterBOARD 750Gr3",
 	     rb750gr3_setup);
 
 #define RB751_HARDCONFIG	0x1f00b000
