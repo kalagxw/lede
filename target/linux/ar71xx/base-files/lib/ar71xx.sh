@@ -1061,8 +1061,8 @@ ar71xx_board_detect() {
 	*"RouterBOARD 750 r2")
 		name="rb-750-r2"
 		;;
-	*"RouterBOARD 750GL")
-		name="rb-750gl"
+	*"RouterBOARD 750Gr3")
+		name="rb-750gr3"
 		;;
 	*"RouterBOARD 750P r2")
 		name="rb-750p-pbr2"
