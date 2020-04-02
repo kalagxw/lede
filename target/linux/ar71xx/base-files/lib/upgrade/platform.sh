@@ -558,7 +558,7 @@ platform_check_image() {
 	rb-493|\
 	rb-493g|\
 	rb-750|\
-	rb-750gl|\
+	rb-750gr3|\
 	rb-751|\
 	rb-751g|\
 	rb-911g-2hpnd|\
@@ -886,7 +886,7 @@ platform_do_upgrade() {
 	rb-493|\
 	rb-493g|\
 	rb-750|\
-	rb-750gl|\
+	rb-750gr3|\
 	rb-751|\
 	rb-751g|\
 	rb-911g-2hpnd|\
